@@ -27,12 +27,9 @@
   color: white;
   border: 1px solid red;
   padding: 15px 30px;
-  /* background-image:linear-gradient(red,orangered,rgb(255, 0, 230),); */
   background: rgb(237, 32, 5);
   border-radius: 15px;
 }
-
-
 .seconed-section{
   display: flex;
   width: 700px;
@@ -54,23 +51,17 @@
   color: white;
   border: 1px solid red;
   padding: 15px 30px;
-  /* background-image:linear-gradient(red,orangered,rgb(255, 0, 230),); */
   background: rgb(237, 32, 5);
   border-radius: 15px;
 }
-
 .middale-hader{
-  
   width: 700px;
   height: auto;
   margin: auto;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 90px;
   text-align: center;
-  /* padding: 30px; */
 }
-
-
 .third-section{
   display: flex;
   width: 700px;
@@ -80,24 +71,17 @@
   border: none;
   margin-bottom: 130px;
 }
-
 .third-section .first{
   width: 200px;
-  height: 150px;
-  
+  height: 150px;  
 }
-
-
 .third-section .seconed{
   width: 200px;
   height: 150px;
-  
 }
-
 .third-section .third{
   width: 200px;
-  height: 150px;
-  
+  height: 150px; 
 }
  .fd{
   border-radius: 20px;
@@ -105,14 +89,12 @@
   padding: 20px 20px;
   box-shadow: 0px 0px 17px 0px gray;
 }
-
 .sd{
   margin-left: 20px;
   border-left:3px solid red;
   padding: 20px 20px;
   box-shadow: 0px 0px 17px 0px gray;
   border-radius: 20px;
-  /* padding-left: 40px; */
 }
 
 .td{
@@ -121,7 +103,6 @@
   padding: 20px 20px;
   box-shadow: 0px 0px 17px 0px gray;
   border-radius: 20px;
-  /* padding-left: 40px; */
 }
 
 .Copyright{
@@ -134,15 +115,11 @@
 }
 
 .lasst{
-  /* display: flex; */
-  /* width: 700px; */
   height: 50px;
-  /* margin: auto; */
   font-family: 'Roboto', sans-serif;
   background: black;
   color: white;
-  /* text-align: center; */
-  /* padding: 30px; */
+  
 }
 .terms{
   float: left;
@@ -157,7 +134,6 @@
   font-style: italic;
 }
 .with span{
-  /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-  font-style: italic;
+  font-style: italic; 
   color: aqua;
 }
